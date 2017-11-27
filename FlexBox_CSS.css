@@ -1,0 +1,66 @@
+[class^="box"] {
+    color:white;
+    font-size:200px;
+    text-align:center;
+    box-sizing:border-box;
+    padding:3px;
+    
+    
+}
+
+.flex-container {
+     display: flex;
+    flex-wrap:wrap;
+    justify-content:space-between;;
+    height:100vh;
+    align-content:space-between;
+    
+}
+
+
+
+.box1 
+{background-color:red;
+width:100%;}
+
+.box2 
+{background-color:green;
+width:49%;
+}
+
+.box3 
+{background-color:orange;
+width:49%;
+}
+
+.box4 
+{background-color:blue;
+width:24%;
+}
+
+.box5
+{background-color:purple;
+width:24%;
+}
+
+.box6
+{background-color:yellow;
+width:24%;
+}
+
+.box7
+{background-color:pink;
+width:24%;
+}
+
+.box8
+{background-color:grey;
+width:32.3%;}
+
+.box9
+{background-color:darkcyan;
+width:32.3%;}
+
+.box10
+{background-color:darkmagenta;
+width:32.3%;}
